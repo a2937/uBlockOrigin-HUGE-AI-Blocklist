@@ -1728,7 +1728,7 @@ duckduckgo.com,bing.com##a[href*="reddit.com/user/TrickyPride"]:upward(li):remov
 
 
 ! // Reddit shit (placeholder)
-
+duckduckgo.com,bing.com##a[href*="reddit.com/answers"]:upward(li):remove()
 
 ! // Tumblr shit
 duckduckgo.com,bing.com##a[href*="dalle2.tumblr.com"]:upward(li):remove()
