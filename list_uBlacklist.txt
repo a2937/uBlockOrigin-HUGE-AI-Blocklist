@@ -357,7 +357,26 @@
 *://*.Sunoai.ai/*
 *://*.thetawise.ai/*
 *://*.imagineanything.ai/*
-
+*://*.codeconvert.ai/*
+*://*.swapcode.ai/*
+*://*.zzzcode.ai/*
+*://*.syntha.ai/*
+*://*.codepal.ai/*
+*://*.codeporting.ai/*
+*://*.galaxy.ai/*
+*://*.musely.ai/*
+*://*.arting.ai/*
+*://*.codeparrot.ai/*
+*://*.facewow.ai/*
+*://*.bylo.ai/*
+*://*.pixellab.ai/*
+*://*.rosebud.ai/*
+*://*.pixnova.ai/*
+*://*.aiease.ai/*
+*://*.reelmind.ai/*
+*://*.artificialstudio.ai/*
+*://*.easemate.ai/*
+*://*.bito.ai/*
 
 # Sites that have .com domain extension
 *://*.steelefortress.com/*
@@ -688,6 +707,30 @@
 *://*.civitaiarchive.com/*
 *://*.deepwiki.com/*
 *://*.civarchive.com/*
+*://*.pythonconvert.com/*
+*://*.aicodeconvert.com/*
+*://*.codingfleet.com/*
+*://*.devrevive.com/*
+*://*.codeconverter.com/*
+*://*.workik.com/*
+*://*.properprogramming.com/*
+*://*.favtutor.com/*
+*://*.ai-code-translator.com/*
+*://*.gravitywrite.com/*
+*://*.anythingtranslate.com/*
+*://*.telegai.com/*
+*://*.jannyai.com/*
+*://*.aicoin.com/*
+*://*.bobcares.com/*
+*://*.mobile-eyes.com/*
+*://*.deepl.com/*
+*://*.pytutorial.com/*
+*://*.zhihu.com/*
+*://*.markaicode.com/*
+*://*.dev59.com/*
+*://*.spacemit.com/*
+*://*.tencent.com/*
+*://*.aicharalab.com/*
 
 # Sites that have .art domain extension
 *://*.imagine.art/*
@@ -998,6 +1041,8 @@
 *://*.sunoai.asia/*
 *://*.diffus.me/*
 *://*.deepwiki.org/*
+*://*.convert.guru/*
+
 
 # AI projects hosted on other sites
 *://*.canva.com/ai-art-generator/*
