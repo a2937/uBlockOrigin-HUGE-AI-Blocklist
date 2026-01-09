@@ -1727,7 +1727,7 @@
 
 
 #// Reddit shit placeholder
-
+*://*.reddit.com/answers
 
 #// Tumblr shit
 *://*.dalle2.tumblr.com/*
